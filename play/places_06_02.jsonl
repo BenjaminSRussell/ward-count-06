@@ -605,3 +605,6 @@
 {"n":605,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north slip. direct left open. 8 steps. The hydrant stays for the start."}
 {"n":606,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at Kessler alley. Nobody past the north slip. We start in 2 steps. Direct on the left lane, open."}
 {"n":607,"kind":"place","name":"Kessler alley north slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley north slip. Bess keeps the hydrant for the start. 3 steps, direct on the left lane, open."}
+{"n":608,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north slip. direct left open. 4 steps. The hydrant stays for the start."}
+{"n":609,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the hydrant at the Lot. Nobody past the north slip. We start in 5 steps. Direct on the left lane, open."}
+{"n":610,"kind":"place","name":"the Lot north slip","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Lot north slip. Matt keeps the hydrant for the start. 6 steps, direct on the left lane, open."}
