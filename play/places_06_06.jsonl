@@ -757,3 +757,6 @@
 {"n":757,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west yard. direct left open. 2 steps. The hydrant stays for the start."}
 {"n":758,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the hydrant at Switchyard. Nobody past the west yard. We start in 3 steps. Direct on the left lane, open."}
 {"n":759,"kind":"place","name":"Switchyard west yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard west yard. Bess keeps the hydrant for the start. 4 steps, direct on the left lane, open."}
+{"n":760,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west yard. direct left open. 5 steps. The hydrant stays for the start."}
+{"n":761,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the hydrant at Drydock. Nobody past the west yard. We start in 6 steps. Direct on the left lane, open."}
+{"n":762,"kind":"place","name":"Drydock west yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock west yard. Matt keeps the hydrant for the start. 7 steps, direct on the left lane, open."}
