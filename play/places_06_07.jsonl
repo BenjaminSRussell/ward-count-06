@@ -573,3 +573,6 @@
 {"n":573,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, west yard. direct left open. 6 steps. The rope stays for the start."}
 {"n":574,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the rope at the pier. Nobody past the west yard. We start in 7 steps. Direct on the left lane, open."}
 {"n":575,"kind":"place","name":"the pier west yard","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the pier west yard. Bess keeps the rope for the start. 8 steps, direct on the left lane, open."}
+{"n":576,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, west yard. direct left open. 2 steps. The rope stays for the start."}
+{"n":577,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rope at Clinic roof. Nobody past the west yard. We start in 3 steps. Direct on the left lane, open."}
+{"n":578,"kind":"place","name":"Clinic roof west yard","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Clinic roof west yard. Matt keeps the rope for the start. 4 steps, direct on the left lane, open."}
