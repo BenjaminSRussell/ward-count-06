@@ -454,3 +454,6 @@
 {"n":454,"kind":"place","name":"Stockyard fence north slip","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence north slip. Matt keeps the plywood for the start. 4 steps, direct on the left lane, open."}
 {"n":455,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north slip. direct left open. 5 steps. The plywood stays for the start."}
 {"n":456,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the plywood at Stockyard fence. Nobody past the north slip. We start in 6 steps. Direct on the left lane, open."}
+{"n":457,"kind":"place","name":"Stockyard fence north slip","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence north slip. Nia keeps the plywood for the start. 7 steps, direct on the left lane, open."}
+{"n":458,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north slip. direct left open. 8 steps. The plywood stays for the start."}
+{"n":459,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the plywood at Stockyard fence. Nobody past the north slip. We start in 2 steps. Direct on the left lane, open."}
