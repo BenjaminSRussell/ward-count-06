@@ -10,3 +10,6 @@
 {"n":10,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the drum at Mast yard. Nobody past the north slip. We start in 6 steps. Direct on the left lane, open."}
 {"n":11,"kind":"place","name":"Mast yard north slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard north slip. Bess keeps the drum for the start. 7 steps, direct on the left lane, open."}
 {"n":12,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north slip. direct left open. 8 steps. The drum stays for the start."}
+{"n":13,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the drum at Last Light. Nobody past the north slip. We start in 2 steps. Direct on the left lane, open."}
+{"n":14,"kind":"place","name":"Last Light north slip","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Last Light north slip. Matt keeps the drum for the start. 3 steps, direct on the left lane, open."}
+{"n":15,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north slip. direct left open. 4 steps. The drum stays for the start."}
