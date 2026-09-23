@@ -435,3 +435,6 @@
 {"n":435,"kind":"place","name":"Ward gate north slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Ward gate north slip. Bess keeps the rope for the start. 5 steps, direct on the left lane, open."}
 {"n":436,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north slip. direct left open. 6 steps. The rope stays for the start."}
 {"n":437,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the rope at Kessler alley. Nobody past the north slip. We start in 7 steps. Direct on the left lane, open."}
+{"n":438,"kind":"place","name":"Kessler alley north slip","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Kessler alley north slip. Matt keeps the rope for the start. 8 steps, direct on the left lane, open."}
+{"n":439,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north slip. direct left open. 2 steps. The rope stays for the start."}
+{"n":440,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rope at Kessler alley. Nobody past the north slip. We start in 3 steps. Direct on the left lane, open."}
