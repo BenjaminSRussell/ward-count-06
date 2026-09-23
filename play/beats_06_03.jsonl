@@ -197,3 +197,6 @@
 {"n":197,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the lamp at the pier. Nobody past the north slip. We start in 5 steps. Direct on the left lane, open."}
 {"n":198,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the pier north slip. Matt keeps the lamp for the start. 6 steps, direct on the left lane, open."}
 {"n":199,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, north slip. direct left open. 7 steps. The lamp stays for the start."}
+{"n":200,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the lamp at the pier. Nobody past the north slip. We start in 8 steps. Direct on the left lane, open."}
+{"n":201,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the pier north slip. Nia keeps the lamp for the start. 2 steps, direct on the left lane, open."}
+{"n":202,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north slip. direct left open. 3 steps. The lamp stays for the start."}
