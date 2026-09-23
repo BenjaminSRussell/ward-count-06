@@ -462,3 +462,6 @@
 {"n":462,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the radio coil at High line. Nobody past the west yard. We start in 6 steps. Direct on the left lane, open."}
 {"n":463,"kind":"place","name":"High line west yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"High line west yard. Bess keeps the radio coil for the start. 7 steps, direct on the left lane, open."}
 {"n":464,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west yard. direct left open. 8 steps. The radio coil stays for the start."}
+{"n":465,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the plywood at Ward gate. Nobody past the east yard. We start in 2 steps. Direct on the left lane, open."}
+{"n":466,"kind":"place","name":"Ward gate east yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Ward gate east yard. Matt keeps the plywood for the start. 3 steps, direct on the left lane, open."}
+{"n":467,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east yard. direct left open. 4 steps. The plywood stays for the start."}
