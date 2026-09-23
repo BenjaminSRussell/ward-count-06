@@ -404,3 +404,6 @@
 {"n":404,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the rebar at Drydock. Nobody past the north slip. We start in 2 steps. Direct on the left lane, open."}
 {"n":405,"kind":"place","name":"Drydock north slip","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Drydock north slip. Nia keeps the rebar for the start. 3 steps, direct on the left lane, open."}
 {"n":406,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north slip. direct left open. 4 steps. The rebar stays for the start."}
+{"n":407,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the rebar at Drydock. Nobody past the north slip. We start in 5 steps. Direct on the left lane, open."}
+{"n":408,"kind":"place","name":"Drydock north slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock north slip. Ivo keeps the rebar for the start. 6 steps, direct on the left lane, open."}
+{"n":409,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north slip. direct left open. 7 steps. The rebar stays for the start."}
