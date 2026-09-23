@@ -752,3 +752,6 @@
 {"n":752,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the hydrant at Switchyard. Nobody past the west yard. We start in 4 steps. Direct on the left lane, open."}
 {"n":753,"kind":"place","name":"Switchyard west yard","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Switchyard west yard. Nia keeps the hydrant for the start. 5 steps, direct on the left lane, open."}
 {"n":754,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west yard. direct left open. 6 steps. The hydrant stays for the start."}
+{"n":755,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the hydrant at Switchyard. Nobody past the west yard. We start in 7 steps. Direct on the left lane, open."}
+{"n":756,"kind":"place","name":"Switchyard west yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard west yard. Ivo keeps the hydrant for the start. 8 steps, direct on the left lane, open."}
+{"n":757,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west yard. direct left open. 2 steps. The hydrant stays for the start."}
