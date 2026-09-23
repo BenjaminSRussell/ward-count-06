@@ -246,3 +246,6 @@
 {"n":246,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north slip. direct left open. 4 steps. The badge door stays for the start."}
 {"n":247,"kind":"bark","speaker":"June","moment":"start","line":"June: Hold the badge door at Drydock. Nobody past the north slip. We start in 5 steps. Direct on the left lane, open."}
 {"n":248,"kind":"place","name":"Drydock north slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock north slip. Ivo keeps the badge door for the start. 6 steps, direct on the left lane, open."}
+{"n":249,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north slip. direct left open. 7 steps. The badge door stays for the start."}
+{"n":250,"kind":"bark","speaker":"Ada","moment":"start","line":"Ada: Hold the badge door at Drydock. Nobody past the north slip. We start in 8 steps. Direct on the left lane, open."}
+{"n":251,"kind":"place","name":"Drydock north slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock north slip. Bess keeps the badge door for the start. 2 steps, direct on the left lane, open."}
