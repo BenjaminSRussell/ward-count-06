@@ -300,3 +300,6 @@
 {"n":300,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north slip. direct left open. 2 steps. The radio coil stays for the start."}
 {"n":301,"kind":"bark","speaker":"Sam","moment":"start","line":"Sam: Hold the radio coil at Stockyard fence. Nobody past the north slip. We start in 3 steps. Direct on the left lane, open."}
 {"n":302,"kind":"place","name":"Stockyard fence north slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence north slip. Matt keeps the radio coil for the start. 4 steps, direct on the left lane, open."}
+{"n":303,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north slip. direct left open. 5 steps. The radio coil stays for the start."}
+{"n":304,"kind":"bark","speaker":"Lis","moment":"start","line":"Lis: Hold the radio coil at Stockyard fence. Nobody past the north slip. We start in 6 steps. Direct on the left lane, open."}
+{"n":305,"kind":"place","name":"Stockyard fence north slip","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence north slip. Nia keeps the radio coil for the start. 7 steps, direct on the left lane, open."}
